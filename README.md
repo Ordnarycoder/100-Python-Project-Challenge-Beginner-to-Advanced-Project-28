@@ -1,0 +1,1 @@
+Opening txt files in python and using writing, reading and other properties.
